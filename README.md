@@ -17,7 +17,7 @@
 
 # Installation
 
-**If use BDHelper put your helper bot Username Without @ in bot.lua, line 22
+**If use deltHelper put your helper bot Username Without @ in bot.lua, line 22
 
 ```sh
 # Let's install the bot.
