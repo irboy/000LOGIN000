@@ -58,7 +58,7 @@ function beyondteam() {
 	white "     >>>>                       We Are Programmer                               "
 	white "     >>>>                       We Are The Best                                 "
 	red   "     >>>>                       We Are Family                                   "
-	red   "     >>>>                       @BeyondTeam                                     "
+	red   "     >>>>                       @deleteTeam                                     "
 	echo -e "\e[0m"
 }
 
@@ -77,7 +77,7 @@ update() {
 
 if [ "$1" = "install" ]; then
 	print_logo
-	beyondteam
+	deleteteam
 	logo_play
 	install
   else
