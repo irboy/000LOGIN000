@@ -1,4 +1,4 @@
-# [<+/_💭♦️ delete V6 (Final Version)](https://telegram.me/IRANB0Y)
+# [<+/_delete V6 (Final Version)](https://telegram.me/IRANB0Y)
 
 **An advanced and powerful administration bot based on NEW TG-CLI
 
@@ -46,11 +46,7 @@ cd $HOME && git clone https://github.com/irboy/000LOGIN000.git && cd 000LOGIN000
  && chmod +x delete.sh && ./delete.sh install && chmod 777 autobd.sh && screen ./autobd.sh
 ```
 
-* * *
 
-# Support and Development
-
-More information [<+/_💭♦️ delete Global Chat](https://telegram.me/iranb0y
 
 
 
