@@ -1,4 +1,4 @@
-# [<+/_delete V6 (Final Version)](https://telegram.me/IRANB0Y)
+# [__delete V6__ (Final Version)](https://telegram.me/IRANB0Y)
 
 **An advanced and powerful administration bot based on NEW TG-CLI
 
